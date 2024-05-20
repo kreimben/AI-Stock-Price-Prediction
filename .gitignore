@@ -3,5 +3,8 @@
 **/__pycache__/**/*
 
 .idea/
+.fleet/
 
 .DS_Store
+
+**/*.csv
