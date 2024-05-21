@@ -6,3 +6,5 @@ seaborn
 missingno
 ydata-profiling
 jupyter
+scikit-learn
+lightgbm
